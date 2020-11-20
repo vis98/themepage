@@ -1,0 +1,7 @@
+text muted for faded text
+display
+screen sizes : lg sm md xl xxl
+Images
+ fluid
+ rounded
+ img
